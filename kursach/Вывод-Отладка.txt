@@ -1,0 +1,14 @@
+﻿"kursach.exe" (Win32). Загружено "C:\Users\Дарья\source\repos\kursach\Debug\kursach.exe". Символы загружены.
+"kursach.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". Невозможно найти или открыть PDB-файл.
+"kursach.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". Невозможно найти или открыть PDB-файл.
+"kursach.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". Невозможно найти или открыть PDB-файл.
+"kursach.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". Невозможно найти или открыть PDB-файл.
+"kursach.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". Невозможно найти или открыть PDB-файл.
+"kursach.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". Невозможно найти или открыть PDB-файл.
+"kursach.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". Невозможно найти или открыть PDB-файл.
+"kursach.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ucrtbased.dll"
+Поток 0x22b8 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x19e4 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x764 завершился с кодом -1073741510 (0xc000013a).
+Поток 0x1850 завершился с кодом -1073741510 (0xc000013a).
+Программа "[9456] kursach.exe" завершилась с кодом -1073741510 (0xc000013a).

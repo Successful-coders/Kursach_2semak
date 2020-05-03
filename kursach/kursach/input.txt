@@ -1,0 +1,10 @@
+6
+Nsk Spb 30
+Nsk Spb 50
+Spb Nsk 60
+Spb Vld 40
+Nsk Vld 10
+Msk Spb 60
+Vld Spb 45
+Vld Nsk 98,5
+Ny Vsh 40
